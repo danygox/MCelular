@@ -1,6 +1,6 @@
 # pr-architecture-guide-lines
 
-DevOps | Repositorio | Roberto Perez
+DevOps | Repositorio | Roberto Perez - Daniel Gonzalez 
 
 ```mermaid
 graph TD;
